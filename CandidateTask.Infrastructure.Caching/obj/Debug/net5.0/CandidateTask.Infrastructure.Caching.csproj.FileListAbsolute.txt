@@ -1,0 +1,15 @@
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\bin\Debug\net5.0\CandidateTask.Infrastructure.Caching.deps.json
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\bin\Debug\net5.0\CandidateTask.Infrastructure.Caching.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\bin\Debug\net5.0\CandidateTask.Infrastructure.Caching.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\bin\Debug\net5.0\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\bin\Debug\net5.0\CandidateTask.Core.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.csproj.AssemblyReference.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.AssemblyInfoInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.AssemblyInfo.cs
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.csproj.CoreCompileInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.csproj.CopyComplete
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\refint\CandidateTask.Infrastructure.Caching.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\CandidateTask.Infrastructure.Caching.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure.Caching\obj\Debug\net5.0\ref\CandidateTask.Infrastructure.Caching.dll

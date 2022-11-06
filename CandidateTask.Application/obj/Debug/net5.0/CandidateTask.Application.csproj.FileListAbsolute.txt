@@ -1,0 +1,17 @@
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Application.deps.json
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Application.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Application.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Infrastructure.Caching.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Core.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\bin\Debug\net5.0\CandidateTask.Infrastructure.Caching.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.csproj.AssemblyReference.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.AssemblyInfoInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.AssemblyInfo.cs
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.csproj.CoreCompileInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.csproj.CopyComplete
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\refint\CandidateTask.Application.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\CandidateTask.Application.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Application\obj\Debug\net5.0\ref\CandidateTask.Application.dll

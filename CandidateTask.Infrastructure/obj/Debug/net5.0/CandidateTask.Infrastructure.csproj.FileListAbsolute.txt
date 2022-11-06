@@ -1,0 +1,15 @@
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\bin\Debug\net5.0\CandidateTask.Infrastructure.deps.json
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\bin\Debug\net5.0\CandidateTask.Infrastructure.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\bin\Debug\net5.0\CandidateTask.Infrastructure.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\bin\Debug\net5.0\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\bin\Debug\net5.0\CandidateTask.Core.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.csproj.AssemblyReference.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.AssemblyInfoInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.AssemblyInfo.cs
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.csproj.CopyComplete
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\refint\CandidateTask.Infrastructure.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\CandidateTask.Infrastructure.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Infrastructure\obj\Debug\net5.0\ref\CandidateTask.Infrastructure.dll

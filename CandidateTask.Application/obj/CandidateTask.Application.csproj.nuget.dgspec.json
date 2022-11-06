@@ -1,0 +1,218 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Application\\CandidateTask.Application.csproj": {}
+  },
+  "projects": {
+    "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Application\\CandidateTask.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Application\\CandidateTask.Application.csproj",
+        "projectName": "CandidateTask.Application",
+        "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Application\\CandidateTask.Application.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud Atris\\.nuget\\packages\\",
+        "outputPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud Atris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj": {
+                "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj"
+              },
+              "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\CandidateTask.Infrastructure.Caching.csproj": {
+                "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\CandidateTask.Infrastructure.Caching.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj",
+        "projectName": "CandidateTask.Core",
+        "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud Atris\\.nuget\\packages\\",
+        "outputPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud Atris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "CsvHelper": {
+              "target": "Package",
+              "version": "[2.16.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\CandidateTask.Infrastructure.Caching.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\CandidateTask.Infrastructure.Caching.csproj",
+        "projectName": "CandidateTask.Infrastructure.Caching",
+        "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\CandidateTask.Infrastructure.Caching.csproj",
+        "packagesPath": "C:\\Users\\Mahmoud Atris\\.nuget\\packages\\",
+        "outputPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Infrastructure.Caching\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mahmoud Atris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj": {
+                "projectPath": "D:\\Atris\\Tasks\\Task v3\\CandidateTaskApp\\CandidateTask.Core\\CandidateTask.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\bin\Debug\net5.0\CandidateTask.Core.deps.json
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\bin\Debug\net5.0\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\bin\Debug\net5.0\CandidateTask.Core.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.csproj.AssemblyReference.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.AssemblyInfoInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.AssemblyInfo.cs
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.csproj.CoreCompileInputs.cache
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\refint\CandidateTask.Core.dll
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\CandidateTask.Core.pdb
+D:\Atris\Tasks\Task v3\CandidateTaskApp\CandidateTask.Core\obj\Debug\net5.0\ref\CandidateTask.Core.dll
